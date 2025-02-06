@@ -1,7 +1,5 @@
-[![MasterHead](https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header)
 <h1 align="center">Hi 👋, I'm Rokonuj jaman Reon</h1>
 <h3 align="center">A passionate Data Analyst from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/Nza5VMFXGB6qpqKcA"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reon482&label=Profile%20views&color=0e75b6&style=flat" alt="reon482" /> </p>
 
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reon482&show_icons=true&locale=en" alt="reon482" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reon482&" alt="reon482" /></p>
+
